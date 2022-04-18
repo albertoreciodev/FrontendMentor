@@ -1,2 +1,2 @@
-# frontendmentor
-Ejercicios y prácticas
+# Frontend Mentor
+Ejercicios y prácticas de los diferentes challenges
